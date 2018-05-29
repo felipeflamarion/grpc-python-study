@@ -3,6 +3,7 @@
 
 # Py cache
 .pyc
+__pycache__/
 
 # Virtualenv
 venv/
